@@ -1,5 +1,9 @@
 # Hospital Emergency Room Analysis Dashboard
 
+<p align="center">
+  <img src="Final Dashboard of Hospital Emergency Analysis.png" alt="Hospital Emergency Analysis Dashboard" width="100%">
+</p>
+
 An Excel-based Hospital Emergency Room Analysis Dashboard developed to analyze patient volume, admission patterns, waiting time, patient satisfaction, attendance status, demographics, and department referrals.
 
 The project transforms raw emergency room patient data into structured Pivot Table analysis and an interactive Excel dashboard to provide a clear overview of hospital emergency department activity.
@@ -126,7 +130,7 @@ Therefore, the dashboard screenshot represents a **filtered January view**, rath
 
 The underlying dataset covers April 2023 through October 2024, while the dashboard can be explored through its available filtering options in Excel.
 
-A preview of the dashboard is included in:
+A preview of the dashboard is included above and is stored in:
 
 `Final Dashboard of Hospital Emergency Analysis.png`
 
@@ -422,3 +426,80 @@ Hospital Emergency Dashboard/
 ├── Hospital_Logo.png
 ├── .gitignore
 └── README.md
+```
+
+---
+
+## File Descriptions
+
+| File | Description |
+|---|---|
+| `Final Dashboard of Hospital Emergency Analysis.png` | Preview image of the completed Excel dashboard |
+| `Hospital Emergency Pivot Report.xlsx` | Excel workbook containing the Pivot Report and Dashboard sheets |
+| `Hospital Emergency Room Data.csv` | Raw emergency room patient dataset |
+| `Hospital_Logo.png` | Hospital logo used in the dashboard |
+| `.gitignore` | Git ignore rules for temporary Excel and OS files |
+| `README.md` | Project documentation |
+
+---
+
+## Limitations
+
+- The current dashboard screenshot represents a filtered January view rather than the complete dataset.
+- The analysis is based on the fields available in the source dataset.
+- The project does not include real-time hospital data.
+- No predictive modeling or forecasting is included.
+- The dashboard is developed in Microsoft Excel and requires Excel-compatible software for full interactive functionality.
+
+---
+
+## Future Improvements
+
+Potential future improvements include:
+
+- Add more interactive dashboard filters.
+- Add year-over-year comparisons.
+- Analyze peak emergency department periods.
+- Add advanced KPI tracking.
+- Build predictive models for patient volume and waiting time.
+- Develop the dashboard in Power BI or Tableau.
+- Connect the dashboard to a live database.
+- Add automated data refresh capabilities.
+
+---
+
+## Project Outcome
+
+This project demonstrates the complete process of transforming raw emergency room patient data into a structured Excel analytics solution.
+
+It combines data organization, Pivot Table analysis, KPI development, filtering, demographic analysis, trend analysis, and dashboard visualization to provide a practical business intelligence view of emergency department activity.
+
+The project also demonstrates the ability to distinguish between **dataset-level information** and **filtered dashboard-level insights**, ensuring that the reported metrics are interpreted correctly.
+
+---
+
+## Project Category
+
+**Data Analytics | Business Intelligence | Microsoft Excel | Healthcare Analytics**
+
+---
+
+## Repository
+
+urlHospital Emergency Dashboard GitHub Repositoryhttps://github.com/bhaskar-nb/hospital-emergency-dashboard
+
+---
+
+## Author
+
+**Bhaskar**
+
+Aspiring Data Analyst focused on SQL, Python, Excel, Tableau, Power BI, and Business Intelligence.
+
+---
+
+## Conclusion
+
+The Hospital Emergency Room Analysis Dashboard provides a practical example of how Excel can be used to transform raw healthcare data into meaningful analytical insights.
+
+The project highlights patient volume, admissions, waiting time, satisfaction, attendance, demographics, referrals, and daily trends through structured analysis and dashboard visualization.
